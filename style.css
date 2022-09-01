@@ -1,0 +1,6 @@
+.work tbody tr td:first-child {
+  font-weight:normal;
+  font-style: italic;
+  text-align: right;
+
+}
